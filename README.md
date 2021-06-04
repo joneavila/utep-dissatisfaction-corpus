@@ -8,6 +8,7 @@ We present a corpus of spoken dialogs collected to support research in the autom
 
 The corpus is available for research purposes from the authors. This includes,
 
+- `annotations` – dissatisfaction labels for customer utterances (see [annotation-guide.txt](annotation-guide.txt))
 - `calls` – 191 English dialogs in WAV format
 - `calls-non-English` – 3 Japanese dialogs in WAV format
 - `call-log.xlsx` – a spreadsheet including the following metadata for each dialog: data, scenario ID, participant ID, confederate ID, and notes
