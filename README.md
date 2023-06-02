@@ -1,8 +1,8 @@
 # The UTEP Corpus of Dissatisfaction in Spoken Dialog
 
-## Abstract
-
 We present a corpus of spoken dialogs collected to support research in the automatic detection of times of dissatisfaction. We collected 191 mock customer-merchant dialogs in two conditions: one where the scripts guided the participants to a satisfactory, mutually agreeable outcome, and one where agreement was precluded. Most dialogs were 1 to 5 minutes in length. The corpus and metadata are freely available for research purposes.
+
+We've also created a bilingual speech corpus of parallel utterances, also freely available. **Dialogs Re-enacted Across Languages (DRAL) Corpus: https://www.cs.utep.edu/nigel/dral/**
 
 ## Contents
 
